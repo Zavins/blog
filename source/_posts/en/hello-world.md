@@ -2,38 +2,12 @@
 title: Hello World
 lang: en
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Hello World! I'm Zavins, and welcome to my digital alcove in the vast universe of the internet. I have been thinking about writing blog posts for a long time, but only now have I found the time to settle down and start.
 
-## Quick Start
+## Beginning of the Journey
+This is my first blog post on the internet. It marks the beginning of a journey where I aim to share my experiences, insights, and knowledge gained from my career in software engineering. As someone who is deeply passionate about technology, I hope my blog can capture the moments when I face technological obstacles and record the ways of how I solve these issues.
 
-### Create a new post
+{% asset_img facing-computer.png image of a person facing computer %}
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## Stay Tuned
+So, stay tuned for regular updates, and feel free to share your thoughts, questions, or topics you'd like me to cover in future posts.

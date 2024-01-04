@@ -2,38 +2,12 @@
 title: 你好世界
 lang: zh-CN
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+你好世界！我是Zavins，欢迎来到我在浩瀚互联网宇宙中的数字角落。其实之前就有开始想写博客，但因为学业繁忙，就一直没有开始。
 
-## Quick Start
+## 旅程的开始
+这是我在互联网上的第一篇博文。它标志着一段旅程的开始，我计划利用这个博客平台分享软件开发以及代码编写中所获得的经验和见解。作为一个对技术充满热情的人，我希望我的博客可以记录一些我在技术方面遇到的挫折和解决这些问题的办法。
 
-### Create a new post
+{% asset_img facing-computer.png 一个人面对电脑的图片 %}
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## 敬请期待
+所以，请继续关注我的博客，欢迎大家随时分享任何想法、问题，或者你希望我在未来的博文中讨论的话题
